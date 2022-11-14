@@ -1,2 +1,0 @@
-# waitermanagesystem
- to be edited 
